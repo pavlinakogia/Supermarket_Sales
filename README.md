@@ -6,7 +6,7 @@
 
 1. Πώς επηρεάζουν οι πόντοι (Reward Points) το συνολικό κέρδος;
 
-2. Ποιο είναι το Profit Margin % των "Members" (AB Plus) έναντι των "Normal" πελατών;
+2. Ποιο είναι το Profit Margin % των "Members" έναντι των "Normal" πελατών;
 
 3. Ποιες περιοχές (Athens, Thessaloniki, Patra) παρουσιάζουν ευκαιρίες για ανάπτυξη;
 
